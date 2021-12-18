@@ -10,7 +10,7 @@ We analyze telegram messages on cryptocurrency in the period from May 1 2021 to 
 ### Average sentiment per day
 ![sentiment_plot](https://user-images.githubusercontent.com/17334869/146632568-0a43d54a-13fb-497d-b792-e7516098d65a.png)
 
-We can see a peak in the number of messages around May 7 - May 11 and at the same time a dip in the average sentiment in the same period. This corresponds to a sharp increase in dogecoin and shiba inu prices in this duration which led to lot more discussion on telegram. People discuss about "Elon Musk tweeting and pumping it". They also discuss about their disappointment with accessibility issues, no response from the support team, scams and not being able to sell their coins. We can also see this trend in the sentiment plot with a dip around this time period. 
+We can see a peak in the number of messages around May 7 - May 11 and at the same time a dip in the average sentiment in the same period. This corresponds to a sharp increase in dogecoin and shiba inu prices in this duration which led to lot more discussion on telegram. People discuss about "Elon Musk tweeting and pumping it" corresponding to an increase in price until May 7 after which it dropped. They also discuss about their disappointment with accessibility issues, no response from the support team, scams and not being able to sell their coins. We can also see this trend in the sentiment plot with a dip around this time period. 
 
 ## Approach
 
